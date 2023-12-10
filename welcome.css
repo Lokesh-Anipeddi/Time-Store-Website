@@ -1,0 +1,48 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-decoration:underline;
+}
+p{
+    text-align: center;
+    color: gray;
+    text-size-adjust: 250px;
+}
+body {
+    background-color:gainsboro;
+}
+img{
+    justify-content: center;
+}
+a{
+    justify-content: center;
+    padding: 15px 15px;
+    margin: 55px 35px;
+    text-decoration: none;
+}
+h3{
+    text-align: center;
+}
+strong{
+    text-decoration:underline;
+}
+head{
+    width: 250px;
+    padding: 150px 150px;
+    margin: 200px;
+}
+label{
+    text-decoration: underline;
+}
+video{
+    margin-left: 200px;
+}
+button{
+    text-align: center;
+}
